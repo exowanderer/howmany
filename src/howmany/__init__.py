@@ -1,1 +1,1 @@
-from howmany.compare import compare  # function call howmany.compare()
+from .compare import compare  # function call howmany.compare()
