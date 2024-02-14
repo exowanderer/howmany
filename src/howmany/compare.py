@@ -5,7 +5,7 @@ Compare
 A function for finding how many of an entity will fit inside another.
 """
 
-from howmany.utils import (
+from .utils import (
     get_wd_ent_label,
     get_wd_ent_prop_amount,
     get_wd_ent_prop_unit,
